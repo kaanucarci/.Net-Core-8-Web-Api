@@ -140,3 +140,5 @@
 /Users/kaanucarci/Desktop/dotnet calisma/api/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/kaanucarci/Desktop/dotnet calisma/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
 /Users/kaanucarci/Desktop/dotnet calisma/api/obj/Debug/net8.0/api.sourcelink.json
+/Users/kaanucarci/Desktop/dotnet calisma/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/kaanucarci/Desktop/dotnet calisma/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
